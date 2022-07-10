@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "learning-gofinance-rn",
+    "slug": "learning-gofinance-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
